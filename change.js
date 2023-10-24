@@ -1,1 +1,1 @@
-console.log("WTF");
+console.log( 5 + 10);
